@@ -1,1 +1,0 @@
-es un control de versiones distribuido ya que la informacion que contiene se almacena en un servidor y a la vez la poseen todos los usuarios
