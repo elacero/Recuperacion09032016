@@ -1,0 +1,1 @@
+ git es un control de versiones distribuido donde todos los usuarios pueden almacenar los datos 
