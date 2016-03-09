@@ -1,0 +1,2 @@
+﻿para obtener una clave con la que añadimos seguridad a nuestra cuenta seguridad adicional 
+mediante la siguiente forma : envias la clave al administrador del repositorio para poder entrar.
