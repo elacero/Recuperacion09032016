@@ -1,0 +1,1 @@
+Hay dos tipos de control de versiones  CENTRALIZADOS Y DISTRIBUIDOS. GIT es un software de control de versiones DISTRIBUIDOS
