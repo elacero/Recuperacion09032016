@@ -1,0 +1,1 @@
+Las claves generadas con ssh-keygen sirven para crear tu clave publica y privada, con el objetibo de acceder facimente al repositori.
