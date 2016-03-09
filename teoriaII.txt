@@ -1,0 +1,1 @@
+git es un control de versiones distribuido porque cada usuario puede almacenar la informacion
