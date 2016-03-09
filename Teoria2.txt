@@ -1,4 +1,0 @@
-Tipos de control de versiones:
--Centralizado
--Distribuido
-GIT es un control de versiones distribuido.
